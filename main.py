@@ -35,11 +35,11 @@ else:
 topics = [
 	'football',
 	'Melbourne',
-	'AFL',
-	'Endgame',
+	'skydiving',
+	'marvel',
 	'Python',
 	'Computers',
-	'Computer games'
+	'Travel'
 ]
 
 questions = [
@@ -79,7 +79,7 @@ for i in range(0, random.randint(3,4)):
 #4. Random goodbye 
 
 goodbyes = [
-	'Good talking to you ' + nickname + 'I gotta go now',
+	'Good talking to you ' + nickname + ' I gotta go now',
 	'OK I am bored, I will go watch Netflix',
 	'Bye bye Miss American Pie, I am out',
 	'Yaaawn . . . I gotta go now',
